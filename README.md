@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamnath-hamnath&label=Profile%20views&color=0e75b6&style=flat" alt="hamnath-hamnath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamnath-hamnath" alt="hamnath-hamnath" /></a> </p>
+- 🔭 I'm currently **immersed in the captivating realm of backend alchemy, crafting the digital heartbeat of a revolutionary Health App. Armed with the wizardry of Node.js, I'm conjuring up RESTful APIs that breathe life into seamless interactions.**
 
 - 🌱 I’m currently learning **.Net core**
 
