@@ -73,5 +73,8 @@
 > 🧙‍♂️ "Coding is like magic; you just have to learn the right spells!"  
 
 ---
+![Snake animation](https://github.com/hamnath-hamnath/hamnath-hamnath/blob/main/github-contribution-grid-snake.svg)
 
+
+---
 🚀 **_Let's build something amazing together!_**
