@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000221&&center=true&width=660&lines=Software+Engineer+%7C+MERN+%7C+Django;Backend+Alchemist+%7C+Node.js+%7C+AI%2FML;Building+Scalable+and+Robust+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1B78B2&&center=true&width=660&lines=Software+Engineer+%7C+MERN+%7C+Django;Backend+Alchemist+%7C+Node.js+%7C+AI%2FML;Building+Scalable+and+Robust+Apps" />
 </p>
 
 <p align="center">
