@@ -69,6 +69,8 @@
 <!-- <a href="https://www.hackerrank.com/hamnath_hamnath1"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 </p> -->
 
+---
+
 ### ⚡ Fun Fact:
 > 🧙‍♂️ "Coding is like magic; you just have to learn the right spells!"  
 
