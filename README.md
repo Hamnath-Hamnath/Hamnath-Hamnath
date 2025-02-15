@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently **immersed in the captivating realm of backend alchemy, crafting the digital heartbeat of a revolutionary Health App. Armed with the wizardry of Node.js, I'm conjuring up RESTful APIs that breathe life into seamless interactions.**
 
-- 🌱 I’m currently learning **.Net core**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **MERN, Django**
 
